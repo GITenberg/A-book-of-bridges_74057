@@ -1,0 +1,49 @@
+_repo: A-book-of-bridges_74057
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brangwyn, Frank
+    alias: Brangwyn, F. (Frank)
+    birthdate: 1867
+    deathdate: 1956
+    gutenberg_agent_id: '43146'
+    url: http://www.gutenberg.org/2009/agents/43146
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Brangwyn
+creator:
+  author:
+    agent_name: Sparrow, Walter Shaw
+    aliases:
+    - Shaw-Sparrow, Walter
+    - Sparrow, W. Shaw (Walter Shaw)
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '39936'
+    url: http://www.gutenberg.org/2009/agents/39936
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Shaw_Sparrow
+description: ''
+gutenberg_issued: '2024-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74057'
+  lccn: '15019320'
+language: en
+pgterms:marc905: 20240525163457brangwyn
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Carol Brown, Chris Curnow and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Lane, The Bodley Head, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bridges'
+- !lcc 'TG'
+- GITenberg
+tableOfContents: On the study of bridges and roads -- Man as the mimic of nature --
+  A few words on the Roman genius -- Old bridges, European, Persian and Chinese --
+  On the evolution of unfortified bridges -- Appendix I. Chinese gabled bridges --
+  Appendix II. Steep Roman bridges.
+title: A book of bridges
+url: http://www.gutenberg.org/ebooks/74057
